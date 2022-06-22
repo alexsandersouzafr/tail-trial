@@ -10,7 +10,7 @@ const Home: NextPage = () => {
       </Head>
       <div className="container mx-auto font-sans">
         <span className="font-black text-lg">
-          This is a container with a bit Title!
+          Is this a container with a big Title!
         </span>
       </div>
       <div className="container mx-auto">
